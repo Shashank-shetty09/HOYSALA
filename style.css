@@ -34,11 +34,12 @@ cursor: pointer;
 }
 #myImage{
     opacity: 0;
-    transition: opacity 5.0s ease;
+    transition: opacity 15.0s ease;
 }
 #myImage.show{
     opacity: 1;
 }
+
 
 
 
