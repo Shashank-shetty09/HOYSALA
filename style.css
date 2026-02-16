@@ -34,8 +34,9 @@ cursor: pointer;
 }
 #myImage{
     opacity: 0;
-    transition: opacity 0.8s ease;
+    transition: opacity 1.0s ease;
 }
 #myImage.show{
     opacity: 1;
 }
+
